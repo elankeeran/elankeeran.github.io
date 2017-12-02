@@ -1,1 +1,31 @@
-theme: jekyll-theme-minimal
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          My Blog
+paginate:       5
+baseurl:        "/"
+url:            "http://blog.elankeeran.com"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Elankeeran Vaithiyanathan
+  url:          http://elankeeran.com
+  email:        ekeeran@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/elankeeran
+
+# Gems
+gems:
+  - jekyll-paginate
