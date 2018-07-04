@@ -24,8 +24,8 @@ Learnt “JavaScript functional” programming from Douglas Crockford (himself!)
 Attended 2018 JSConf.EU in Berlin and met all the TC39 developers. 
 Also got a chance to pick Ryan Dahl's brains (create of node.js) during the conference. 
 
-Successfully completed M101JS: (MongoDB for Node.js Developers a course of study offered by MongoDB, Inc. in 2014)[http://education.mongodb.com/downloads/certificates/7e3e407289eb44cda74df977ab742b5c/Certificate.pdf?_ga=1.101015751.790702825.1416934124].
+Successfully completed M101JS: ( MongoDB for Node.js Developers a course of study offered by MongoDB, Inc. in 2014 )[http://education.mongodb.com/downloads/certificates/7e3e407289eb44cda74df977ab742b5c/Certificate.pdf?_ga=1.101015751.790702825.1416934124].
 
-Attended the Jeff Gothelf and Josh Seiden  training on Lean UX (http://proof-nyc.com/) in 2012.
+Attended the Jeff Gothelf and Josh Seiden  training on Lean UX ( http://proof-nyc.com/ ) in 2012.
  
  
